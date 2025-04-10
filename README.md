@@ -55,3 +55,5 @@ O projeto foi estruturado seguindo o padrão Star Schema (Esquema Estrela), com 
   Canal de venda
 
 - Layout responsivo e intuitivo, com menu retrátil interativo
+
+link para o projeto: https://app.powerbi.com/view?r=eyJrIjoiMGJlMDQ2MWUtNWNkNC00OWRhLTg3NTktYWJhMWJlOTY0M2JiIiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9
