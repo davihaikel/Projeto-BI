@@ -8,7 +8,7 @@ Este projeto é um dashboard interativo desenvolvido no Power BI com o objetivo 
 
 - Simular uma aplicação real de Business Intelligence voltada para a área comercial
 
- ![Interface do dashboard de vendas](assets/interfaceas.PNG)
+ ![Interface do dashboard de vendas](projeto_bi.PNG)
 
 ## 🧩 Modelagem de Dados
 O projeto foi estruturado seguindo o padrão Star Schema (Esquema Estrela), com as seguintes tabelas:
